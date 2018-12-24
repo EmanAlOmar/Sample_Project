@@ -1,5 +1,5 @@
 // Test
-package org;
+package orgg;
 import org.animals.Dog;
 
 
