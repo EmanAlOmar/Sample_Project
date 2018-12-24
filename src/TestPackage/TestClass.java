@@ -1,4 +1,4 @@
-package org;
+package TestPackage;
 
 public class TestClass {
 
