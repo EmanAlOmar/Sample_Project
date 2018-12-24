@@ -10,8 +10,9 @@ public class Dog {
 		return this.age;
 	}
 
-	public void takeABreath() {
+	public void takeaBreath() {
 		System.out.println("...");
 	}
+	
 
 }

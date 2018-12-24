@@ -20,13 +20,13 @@ public class DogManager {
 			sum += i;
 		}
 		sum -= dog.magicNumber;
-		dog.takeABreath();
+		dog.takeaBreath();
 	}
 
 	public void barkBark(Dog dog) {
 		System.out.println("ruff");
 		System.out.println("ruff");
-		dog.takeABreath();
+		dog.takeaBreath();
 		System.out.println("ruff");
 		System.out.println("ruff");
 		System.out.println("ruff");
