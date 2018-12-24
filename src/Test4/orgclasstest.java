@@ -1,4 +1,4 @@
-package org;
+package Test4;
 
 public class orgclasstest {
 
