@@ -1,4 +1,4 @@
-package TestPackage;
+package Test.TestPackage;
 
 public class class1 {
 
