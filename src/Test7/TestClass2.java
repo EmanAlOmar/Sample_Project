@@ -1,4 +1,4 @@
-package Test6.Test;
+package Test7;
 
 public class TestClass2 {
 
