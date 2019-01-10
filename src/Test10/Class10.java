@@ -9,9 +9,6 @@ public class Class10 {
 		System.out.println("Print Name");
 	}
 	
-	public void printNumber()
-	{
-		System.out.println("Print Number");
-	}
+	
 
 }
